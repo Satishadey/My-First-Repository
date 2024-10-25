@@ -18,6 +18,6 @@
 
   ## 🌐 Socials:
 <a href="https://linkedin.com/in/AayushGurung" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%368b1253.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="www.linkedin.com/in/satish-adey-368b81253.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
