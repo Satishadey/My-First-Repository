@@ -17,7 +17,7 @@
 
 
   ## 🌐 Socials:
-<a href="https://linkedin.com/in/AayushGurung" target="_blank">
+<a href="https://linkedin.com/in/Satish Adey" target="_blank">
     <img src="www.linkedin.com/in/satish-adey-368b81253.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
