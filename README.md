@@ -2,7 +2,7 @@
   <h1 align="center">Hi, there! 👋</h1>
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayushgrg333.Aayushgrg333&"  />
+    <img src="https://visitor-badge.laobi.icu/badge?"  />
   </div>
 
   
